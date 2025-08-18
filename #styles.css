@@ -1,5 +1,12 @@
 body {
-    color: lab(98.32% 2.03 -1.45);
-    background: oklab(81.66499999999999% 0.12222 -0.0242);
+    color: rgb(233, 149, 191);
+    background: rgb(235, 168, 201);
     margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(229, 162, 196);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(206, 72, 134);
 }
