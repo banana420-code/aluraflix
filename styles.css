@@ -2,6 +2,7 @@ body {
     color: rgb(250, 213, 228);
     background: rgb(255, 164, 199);
     margin: 0px;
+    font-family: "Sarina", cursive;
 }
 
 header {
@@ -21,4 +22,12 @@ section {
 
 .chamada-texto{
     margin-right: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
 }
